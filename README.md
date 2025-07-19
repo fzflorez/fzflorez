@@ -1,5 +1,5 @@
 # 👋 Hola, soy Mauricio  
-### HTML · CSS · JavaScript · React · Tailwind CSS
+### JavaScript · React · TypeScript · Tailwind CSS
 
 🎯 Desarrollador frontend en formación con enfoque en interfaces modernas, limpias y funcionales.  
 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)  
