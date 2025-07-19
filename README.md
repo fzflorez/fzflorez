@@ -1,5 +1,5 @@
 # 👋 Hola, soy Mauricio  
-### Frontend Developer en formación | HTML · CSS · JavaScript · React · Tailwind CSS
+### HTML · CSS · JavaScript · React · Tailwind CSS
 
 🎯 Desarrollador frontend en formación con enfoque en interfaces modernas, limpias y funcionales.  
 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)  
@@ -17,8 +17,7 @@
 
 ### 🔍 Intereses
 - ⚡ Desarrollo web moderno y responsive  
-- 🎨 Diseño de interfaces (UI) y experiencia de usuario (UX)  
-- ♿ Accesibilidad y buenas prácticas de rendimiento
+- 🎨 Diseño de interfaces (UI) y experiencia de usuario (UX) 
 
 ---
 
