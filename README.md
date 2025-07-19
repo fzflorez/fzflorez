@@ -1,4 +1,4 @@
-# 👨‍💻 Mauricio Florez Samudio  
+# 👋 Hola, soy Mauricio  
 ### Frontend Developer en formación | HTML · CSS · JavaScript · React · Tailwind CSS
 
 🎯 Desarrollador frontend en formación con enfoque en interfaces modernas, limpias y funcionales.  
