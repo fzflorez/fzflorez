@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Mauricio
 
-<!--
-**fzflorez/fzflorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador frontend en formación  
+💻 Aprendiendo HTML, CSS, JavaScript, React y Tailwind CSS  
+🎓 Tecnólogo en Análisis y Desarrollo de Software - SENA  
+🛠️ Me gusta construir interfaces limpias, funcionales y accesibles  
+🧠 Responsable, colaborativo y con ganas de seguir creciendo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Actualmente trabajando en:
+- Proyectos personales con React y Tailwind
+- Mejora de fundamentos en JavaScript
+- Buenas prácticas en desarrollo frontend
+
+---
+
+### 🌱 Intereses:
+- Desarrollo web moderno
+- UI/UX
+- Accesibilidad y rendimiento
+
+---
+
+### 📫 Cómo contactarme:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/mauricio-florez-samudio)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-%23000000?style=flat&logo=vercel&logoColor=white)](https://mf-portfolio-dev.netlify.app/)
